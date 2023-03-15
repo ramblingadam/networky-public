@@ -128,13 +128,13 @@ Potential future features/optimizations include:
 
 ---
 
-## <img src="https://res.cloudinary.com/dl0htq50i/image/upload/v1678864683/networky-readme_icons/readme_icons-bug_qqiy5p.png" width="22" height="22" alt="Copyright icon"> Bug Reports and Feature Requests
+## <img src="https://res.cloudinary.com/dl0htq50i/image/upload/v1678864683/networky-readme_icons/readme_icons-bug_qqiy5p.png" width="22" height="22" alt="Bug icon"> Bug Reports and Feature Requests
 
 To report a bug report or request a new feature, file an issue <a href="https://github.com/ramblingadam/networky-public/issues">here</a>.
 
 ---
 
-## <img src="https://i.imgur.com/SwwiQPj.png" width="22" height="22" alt="Copyright icon"> Enjoy Networky?
+## <img src="https://res.cloudinary.com/dl0htq50i/image/upload/v1678865846/networky-readme_icons/readme_icons-love_networky_drqogj.png" width="22" height="22" alt="Enjoy networky icon"> Enjoy Networky?
 
 Networky is a thank-you gift to the incredible community of software engineers at 100Devs, and is completely free.
 
