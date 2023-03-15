@@ -26,11 +26,11 @@ I built Networky to solve this problem once and for all.
 
 | *Feature*|*Description*|
 |---|---|
-| **Contacts** | Contacts can be added, edited, or deleted at any time. |
+| **Contacts** | Contacts can be added, edited, or deleted at any time. At this time, you can add up to 100 contacts. |
 | **Keep In Touch** | Set a social check-in interval for each contact, and Networky will let you know when your next check-in is due. |
 | **Keep It Together** | Networky keeps every personal and professional link for your contacts in one place. Quickly and easily reach out via whichever channel you desire with one click. |
-| **Biography and Notes** | Add a biography and dated notes to your contacts, helping you to remember personal details and what you talked about last. |
-| **Categories** | Organize your contacts into categories like coworkers, referrals, and friends. You can have any number of categories, and name those categories however you like. |
+| **Biography and Notes** | Add a biography and dated notes to your contacts, helping you to remember personal details and what you talked about last. At this time, you can add up to 100 notes per contact. |
+| **Categories** | Organize your contacts into categories like coworkers, referrals, and friends. You can have up to 10 different categories, and name those categories however you like. |
 | **Versatile Sorting** | Sort your contacts by check-in due, alphabetically, by company, and more! |
 | **Live Search** | The search function queries name, company, position, biography, and notes to find the person you're looking for instantly. |
 | **Customization** | Customize several different options in Settings to make Networky work for you. |
