@@ -43,15 +43,17 @@ I built Networky to solve this problem once and for all.
 ### <img src="https://i.imgur.com/6QAZVDL.png" width="16" height="16" alt="Eye icon"> **FRONTEND TECH:** React, React-Redux, React-Router, Axios, Date-Fns, Javascript, JSX, CSS
 
 
-I love working with React, but the necessity of lifting up and drilling down shared state has always felt cumbersome when developing a complex frontend. 
+I love working with React, but the necessity of lifting up and drilling down shared state has always felt cumbersome. While useContext() is fine for sharing state among components in simple applications, Networky's size and complexity demanded a more robust state management solution.
 
-This is why I opted to use Redux to manage the vast majority of my state- specifically the React-Redux toolkit, which made store setup and reducer/action creation easy. I used two main 'slices' of state- one to store user data fetched from the backend, and the other to control the behavior of ui components.
+This is why I opted to use Redux to manage the vast majority of my state- specifically the React-Redux toolkit, which made store setup and reducer/action creation easy. I used two main 'slices' of state- one to store user data fetched from the backend, and the other to control the behavior of ui components. Several components also have their own minor local state.
 
-In order to remain true to my initial vision (and because it's fun), I built every component from scratch, and hand coded every line of JavaScript and CSS. The structure and flexibility of my components improved as the project went on as I experimented with more complex props.
+In order to remain true to my initial vision (and because it's fun), I built every component from scratch, and hand coded every line of JavaScript and CSS. The structure and flexibility of my components improved as the project went on as I experimented with more complex props. I often extracted new components from others as they grew in complexity, doing my best to keep every piece of Networky's frontend as modular, flexible, and reusable as possible.
+
+I used several NPM packages on the frontend:
 
 React-Router is used to control the display of certain components based on the URL route.
 
-Date-Fns is used to perform calendar-arithmetic and Date() object conversion.
+Date-Fns is used to perform calendar-arithmetic and flexible Date() object conversion.
 
 Axios is used to communicate with the backend.
 
