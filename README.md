@@ -1,12 +1,10 @@
 # ![Networky Logo](https://i.imgur.com/0HdJHPd.png) Networky.™ **Turning Acquaintances into Friends.**
 
-**Networky** helps you build and maintain strong relationships with everybody you meet.
+Networky improves your relationships with the people in your life whom provide value to ***you*** by reminding you to periodically provide value to ***them***!
 
 Through spaced repetition of social check-ins at customizable intervals, this beautiful web application facilitates the process of turning acquaintances into friends over time, helping you stay relevant in your contacts' lives.
 
-Networky improves your relationships with the people in your life whom provide value to ***you*** by reminding you to periodically provide value to ***them***!
-
-Networky also gives you the power to make your contacts feel ***remembered*** by allowing you to add both a biography and any number of dated notes to each of your contacts, and makes it easy to reach out by bringing all your contact's social links into a single place.
+Networky also gives you the power to make your contacts feel ***remembered*** by allowing you to add both a biography and any number of dated notes to each of your contacts, and makes it easy to reach out by bringing all of your contacts' social links into a single place.
 
 **Learn more below, or check it out here:** [https://networky.io/](https://networky.io/)
 
