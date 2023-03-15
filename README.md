@@ -138,7 +138,7 @@ Networky is a thank-you gift to the incredible community of software engineers a
 
 In addition, Networky will never sell or share user data with anybody, ever.
 
-That said, building Networky takes a lot of my time, and keeping it online costs money. Your donation, no matter how small, makes a big impact. Thank you and I hope you enjoy networking with Networky!
+That said, building Networky takes a lot of my time, and keeping it online costs money. Your donation, no matter how small, will help me keep it online and continue developing new features. Thank you and I hope you enjoy networking with Networky!
 
 <a href="https://www.paypal.com/donate/?business=SBTL552EAS9BU&no_recurring=0&item_name=Help+me+continue+making+innovative+software+solutions.+Your+donation%2C+no+matter+how+small%2C+makes+a+big+impact.+Thank+you%21&currency_code=USD" target="_blank"><img src="https://res.cloudinary.com/dl0htq50i/image/upload/v1678865505/networky-readme_icons/chrome_31o04YZELF_yymbwa.png"></a>
 
@@ -161,7 +161,7 @@ Take a look at these other awesome projects from my portfolio!
 
 **Magic Task Timer:** [https://github.com/ramblingadam/magic-task-timer](https://github.com/ramblingadam/magic-task-timer)
 
-[![Screenshot of Magic Task Timer](https://user-images.githubusercontent.com/96756923/186636834-a45327e8-90ea-4c34-b3e9-b5e5b1dfdd5b.gif)](https://user-images.githubusercontent.com/96756923/186636834-a45327e8-90ea-4c34-b3e9-b5e5b1dfdd5b.gif)
+[![Screenshot of Magic Task Timer](https://user-images.githubusercontent.com/96756923/186636834-a45327e8-90ea-4c34-b3e9-b5e5b1dfdd5b.gif)](https://github.com/ramblingadam/magic-task-timer)
 
 #
 
