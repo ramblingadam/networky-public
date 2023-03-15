@@ -128,6 +128,24 @@ Potential future features/optimizations include:
 
 ---
 
+## <img src="https://res.cloudinary.com/dl0htq50i/image/upload/v1678864683/networky-readme_icons/readme_icons-bug_qqiy5p.png" width="22" height="22" alt="Copyright icon"> Bug Reports and Feature Requests
+
+To report a bug report or request a new feature, file an issue <a href="https://github.com/ramblingadam/networky-public/issues">here</a>.
+
+---
+
+## <img src="https://i.imgur.com/SwwiQPj.png" width="22" height="22" alt="Copyright icon"> Enjoy Networky?
+
+Networky is a thank-you gift to the incredible community of software engineers at 100Devs, and is completely free.
+
+In addition, Networky will never sell or share user data with anybody, ever.
+
+That said, building Networky takes a lot of my time, and keeping it online costs money. Your donation, no matter how small, makes a big impact. Thank you and I hope you enjoy networking with Networky!
+
+<a target="_blank" href="https://www.paypal.com/donate/?business=SBTL552EAS9BU&no_recurring=0&item_name=Help+me+continue+making+innovative+software+solutions.+Your+donation%2C+no+matter+how+small%2C+makes+a+big+impact.+Thank+you%21&currency_code=USD"><img src="https://res.cloudinary.com/dl0htq50i/image/upload/v1678865505/networky-readme_icons/chrome_31o04YZELF_yymbwa.png"></a>
+
+---
+
 ## <img src="https://i.imgur.com/SwwiQPj.png" width="22" height="22" alt="Copyright icon"> Copyright & Source Code
 
 All original code in this project is ©Adam Morsa. All rights reserved.
