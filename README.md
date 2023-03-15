@@ -80,6 +80,25 @@ Validator is used to validate user inputs.
 
 ---
 
+## <img src="https://i.imgur.com/MUcJhxt.png" width="22" height="22" alt="Speedometer icon"> Statistics
+
+### Frontend
+- 5,224 lines of JavaScript
+- 2,704 lines of CSS
+- 1,357 lines of comments (because documenting your code is important!)
+- 35 hand built components
+
+### Backend
+- 1,397 lines of JavaScript
+- 561 lines of comments
+- 20 routes
+- 20 controllers
+- 3 models
+
+---
+
+
+
 ## <img src="https://i.imgur.com/JwqwRKe.png" width="22" height="22" alt="Speedometer icon"> Optimizations
 
 As time permits, there are several optimizations and improvements that I'd like to integrate into Networky in future updates.
@@ -99,18 +118,20 @@ Potential future features/optimizations include:
 
 - Familiarized myself with Redux, and with it, many principles of functional programming and the advantages of that paradigm
 - Practiced building a complex project with MVC-based architecture, making my backend code more organized and maintainable than ever before
+- Practiced building (and organizing) a wide range of components which became more and more versatlie as the project went on
 - Learned how to handle authentication via JSON web tokens
 - Learned how to effectively connect a React frontend to a Node backend via API requests and token verification
 - Learned how to auto-generate and send emails to users via Node Mailer
 
 ---
-## <img src="https://i.imgur.com/SwwiQPj.png" width="22" height="22" alt="Copyright icon"> Copyright
+
+## <img src="https://i.imgur.com/SwwiQPj.png" width="22" height="22" alt="Copyright icon"> Copyright & Source Code
 
 All original code in this project is ©Adam Morsa. All rights reserved.
 
 Networky is currently closed-source.
 
-If you are currently recruiting a software engineer, I'd be happy to facilitate a code review. Reach out to me at <a href="mailto:adam@adammorsa.com" target='_blank'>adam@adammorsa.com</a>.
+If you are actively recruiting a software engineer, I'd be happy to facilitate a code review. Reach out to me at <a href="mailto:adam@adammorsa.com" target='_blank'>adam@adammorsa.com</a>.
 
 ---
 
