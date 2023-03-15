@@ -130,7 +130,7 @@ Potential future features/optimizations include:
 
 ## <img src="https://res.cloudinary.com/dl0htq50i/image/upload/v1678864683/networky-readme_icons/readme_icons-bug_qqiy5p.png" width="22" height="22" alt="Bug icon"> Bug Reports and Feature Requests
 
-To report a bug report or request a new feature, file an issue <a href="https://github.com/ramblingadam/networky-public/issues">here</a>.
+To report a bug or request a new feature, file an issue <a href="https://github.com/ramblingadam/networky-public/issues">here</a>.
 
 ---
 
