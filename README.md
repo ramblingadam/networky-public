@@ -82,6 +82,9 @@ Validator is used to validate user inputs.
 
 ## <img src="https://i.imgur.com/MUcJhxt.png" width="22" height="22" alt="Speedometer icon"> Statistics
 
+- 290+ hours spent designing, prototyping, coding, refactoring, and polishing
+- 120+ issues closed throughout development
+
 ### Frontend
 - 5,224 lines of JavaScript
 - 2,704 lines of CSS
