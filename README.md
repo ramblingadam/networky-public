@@ -109,10 +109,10 @@ As time permits, there are several optimizations and improvements that I'd like 
 Potential future features/optimizations include:
 - Integrate Cloudinary to allow users to upload contact photos themselves
 - "Remember Me" option when logging in to disable automatic inactivity logout
-- Expandable/Shrinkable contact cards
+- ~~Expandable/Shrinkable contact cards~~ DONE
 - Implement React Error Boundary to catch any errors not caught by my custom error handling component
-- Allow user to set an "action due" string to be associated with the next check-in date (Examples: "Send thank you email", "Ask how the kid's soccer tournament went", etc)
-- Refactor the way the 'uncategorized' category works
+- ~~Allow user to set an "action due" string to be associated with the next check-in date (Examples: "Send thank you email", "Ask how the kid's soccer tournament went", etc)~~ DONE
+- ~~Refactor the way the 'uncategorized' category works~~ DONE
 - Refactor auth token implementation to be cleaner
 
 ---
@@ -138,7 +138,7 @@ To report a bug or request a new feature, file an issue <a href="https://github.
 
 Networky is a thank-you gift to the incredible community of software engineers at 100Devs, and is completely free.
 
-In addition, Networky will never sell or share user data with anybody, ever.
+In addition, Networky will never sell or share your contact data with anybody, ever.
 
 That said, building Networky takes a lot of my time, and keeping it online costs money. Your donation, no matter how small, will help me keep it online and continue developing new features. Thank you and I hope you enjoy networking with Networky!
 
